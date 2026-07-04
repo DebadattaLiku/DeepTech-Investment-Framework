@@ -1,0 +1,6 @@
+Sector,funding_efficiency,innovation_score,commercial_traction_score,technology_moat_score,composite_risk,market_opportunity_score,founder_team_score,scalability_score,consensus_rank_score
+Artificial Intelligence,43.5,12.7,30.7,65.6,41.1,95.0,78.3,78.7,0.5
+Defence Technology,16.7,1.7,27.4,39.4,50.7,80.0,78.3,47.7,0.4
+Quantum Computing,22.9,30.5,16.2,51.8,55.9,55.0,51.6,35.6,0.3
+Robotics,34.1,6.0,11.2,48.2,50.4,75.0,56.6,47.4,0.3
+Space Technology,26.2,11.7,23.0,58.3,45.4,65.0,75.7,62.5,0.4

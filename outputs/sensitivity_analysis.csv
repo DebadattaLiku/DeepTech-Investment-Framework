@@ -1,0 +1,50 @@
+Company,Investor-Defined,AHP,Entropy (EWM),Equal Weight,Max Rank Swing
+SpaceX,1,1,1,1,0
+OpenAI,2,2,2,2,0
+Quantinuum,4,4,4,7,3
+Anthropic,3,3,5,3,2
+Anduril Industries,5,5,6,4,2
+Quantum Computing Inc.,12,12,3,16,13
+Palantir,6,6,11,5,6
+NVIDIA,7,7,14,6,8
+Microsoft,8,8,15,8,7
+Blue Origin,9,9,8,12,4
+Boston Dynamics,11,11,7,9,4
+Alphabet (Google),10,10,19,11,9
+Helsing,16,16,10,17,7
+ABB Ltd,13,13,18,10,8
+Intuitive Surgical,14,14,23,15,9
+IBM,15,15,17,13,4
+Mistral AI,19,19,12,21,9
+Shield AI,18,18,13,24,11
+ICEYE,21,21,9,20,12
+Iridium Communications,17,17,21,14,7
+Fanuc Corp,20,20,26,19,7
+iRobot,22,22,24,18,6
+AST SpaceMobile,24,24,16,25,9
+Planet Labs,23,23,27,22,5
+L3Harris Technologies,25,25,33,30,8
+Northrop Grumman,26,26,35,29,9
+Figure AI,33,33,22,41,19
+Cohere,28,28,20,31,11
+RTX Corporation,27,27,32,26,6
+BAE Systems,29,29,34,27,7
+SoundHound AI,30,30,36,28,8
+Rocket Lab,34,34,31,32,3
+Kratos Defense,32,32,40,33,8
+C3.ai,31,31,28,23,8
+Lockheed Martin,35,35,44,37,9
+D-Wave Quantum,36,36,30,34,6
+IonQ,37,37,25,35,12
+Symbotic,38,38,46,40,8
+Rigetti Computing,39,39,29,36,10
+Agility Robotics,41,41,37,45,8
+Saronic Technologies,42,42,39,44,5
+Intuitive Machines,40,40,38,38,2
+PsiQuantum,44,44,42,47,5
+Redwire,43,43,41,39,4
+Pasqal,47,47,43,46,4
+Relativity Space,45,45,47,42,5
+Serve Robotics,46,46,45,43,3
+Xanadu,48,48,48,48,0
+Skild AI,49,49,49,49,0
